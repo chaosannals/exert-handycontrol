@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawControl", "RawControl\RawControl.csproj", "{41E9675B-A11A-4F07-B2EF-5ABB55947825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendControl", "ExtendControl\ExtendControl.csproj", "{6C80F1F8-8EFB-485E-819C-2530F0E6CE60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41E9675B-A11A-4F07-B2EF-5ABB55947825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E9675B-A11A-4F07-B2EF-5ABB55947825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E9675B-A11A-4F07-B2EF-5ABB55947825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E9675B-A11A-4F07-B2EF-5ABB55947825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C80F1F8-8EFB-485E-819C-2530F0E6CE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C80F1F8-8EFB-485E-819C-2530F0E6CE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C80F1F8-8EFB-485E-819C-2530F0E6CE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C80F1F8-8EFB-485E-819C-2530F0E6CE60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA2DD89C-D44C-4607-B0FF-C99C27530C46}
+	EndGlobalSection
+EndGlobal
